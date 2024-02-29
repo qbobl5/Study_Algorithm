@@ -3,7 +3,7 @@
 
 - Plan 🗓️  주 1회 목요일 오프라인 스터디
 
-- People 👥  4
+- People 👥  qbobl5 nawonhee (4)
 
 - Content 💭  알고리즘 2개를 4명이 나누어 사전 공부 및 관련된 코딩테스트 풀이 후 스터디원에게 과제로 출제
 
